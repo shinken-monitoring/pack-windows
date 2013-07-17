@@ -18,7 +18,11 @@
 	"repository": "https://github.com/shinken-monitoring/pack-windows",
 	"keywords": [
 	  "pack",
-	  
+	  "microsoft",
+	  "windows",
+	  "server",
+	  "os",
+	  "wmi"
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
