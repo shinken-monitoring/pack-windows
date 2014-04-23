@@ -13,6 +13,10 @@
 	  {
 		"name": "Imrane Dessai",
 		"email": "dessai.imrane@gmail.com"
+          },
+          {
+                "name": "Forlot Romain",
+                "email": "rforlot@yahoo.com"
 	  } 
 	],
 	"repository": "https://github.com/shinken-monitoring/pack-windows",
