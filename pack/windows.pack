@@ -28,6 +28,9 @@
          "_EXCLUDED_SERVICES": {"type":"string",
                                 "description": "Regex for services to be excluded from check auto services"
                              },
+         "_WINDOWS_INCLUDED_DISK": {"type":"string",
+                             "description":"List of disk included in the check_windows_disks. by default, all disks are included"
+                             },
          "_WINDOWS_DISK_WARN": {"type":"percent",
                              "description":"Level for disk space"
                              },
